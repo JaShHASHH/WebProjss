@@ -1,2 +1,2 @@
-# WebProjss
-Webprojects
+# Python-learning-journey
+pythonprojects
